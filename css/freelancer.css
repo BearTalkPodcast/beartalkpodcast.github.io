@@ -91,13 +91,13 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
+    padding-top: 120px;
     padding-bottom: 50px;
 }
 
 header img {
     display: inline;
-    margin: -30px 10px 10px 10px;
+    margin: -50px 10px 10px 10px;
 }
 
 header .intro-text .name {
@@ -130,7 +130,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 10px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -144,7 +144,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
+        padding: 0px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -200,7 +200,7 @@ section.success a.active {
 
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
+        padding: 20px 0;
     }
 
     section.first {
