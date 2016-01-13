@@ -6826,7 +6826,7 @@ button.close {
 @media (max-width: 600px) {
   .gap-right{
     margin-right: 30%;
-    margin-left: 1%;
+    margin-left: 0.5%;
     margin-bottom: 10px;
   }
   .pull-left {
