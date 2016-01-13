@@ -6825,13 +6825,13 @@ button.close {
 
 @media (max-width: 600px) {
   .gap-right{
-    margin-right: 100px;
+    margin-right: 20%;
+    margin-left: 16%;
     margin-bottom: 10px;
   }
   .pull-left {
-    float:inherit;
-    padding-left:20%;
-  }
+    float:inherit;  }
+
 
 }
 /*# sourceMappingURL=bootstrap.css.map */
